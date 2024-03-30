@@ -1,0 +1,28 @@
+{
+  "name": "tstk",
+  "displayName": "TypeScript ToolKit (tstk)",
+  "version": "0.1.0",
+  "description": "An all-in-one solution to analyze, transpile, minimize and bundle TypeScript modules.",
+  "main": "tstk.js",
+  "type": "module",
+  "scripts": {
+    "start": "node tstk.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikelSalazar/TypeScriptToolKit.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "ToolKit"
+  ],
+  "author": "Mikel Salazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikelSalazar/TypeScriptToolKit/issues"
+  },
+  "homepage": "https://github.com/MikelSalazar/TypeScriptToolKit#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  }
+}
